@@ -11,3 +11,7 @@ p {
 ul {
     list-style: none;
 }
+
+table {
+    border: 2px solid red;
+}
